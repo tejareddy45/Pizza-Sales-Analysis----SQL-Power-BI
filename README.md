@@ -3,7 +3,7 @@
 ## Project Objectives
 - **Understand Sales Performance:** Analyze total revenue, average order value, total orders, and average pizzas per order.
 - **Identify Trends:** Examine daily and monthly trends in total orders.
-- **Category and Size Analysis:* Evaluate the percentage of sales by category and size.
+- **Category and Size Analysis:** Evaluate the percentage of sales by category and size.
 - **Identify Best and Worst Sellers:** Highlight top and bottom performers based on revenue, category, and quantity.
 - **Recommendation Generation:** Provide actionable insights for improving sales strategies.
 
